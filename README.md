@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngrabin
 - 👀 I’m interested in DataScience, AI, ML, Marketing 
 - 🌱 I’m currently learning @SPICED, doing my DataScience Bootcamp
-- 💞️ I’m looking for artists, front & back end devs and data scientists to work on web projects, natice apps, marketing campaigns
+- 💞️ I’m looking for artists, front & back end devs and data scientists to work on web projects, native apps, marketing campaigns
 - 📫 How to reach me: ...
 
 <!---
